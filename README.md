@@ -1,5 +1,9 @@
 # croppie-exemplo
 <h1>Upload de imagens com croppie; ajax e php</h1>
+<h3>*link css/Js </h3>
+<a href="https://cdnjs.com/libraries/croppie">LINK para baixar a biblioteca croppie</a>
+<p>USO obrigatorio do JQuery</p>
+
   <h3>html</h3>
   
      <div id="image_demo" style="width:100%;"></div> 
